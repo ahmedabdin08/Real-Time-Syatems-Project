@@ -1,0 +1,10 @@
+14:54:29 **** Incremental Build of configuration Debug for project ECED4402_2022 ****
+make -j8 all 
+arm-none-eabi-size   ECED4402_2022.elf 
+   text	   data	    bss	    dec	    hex	filename
+  32972	    120	  21128	  54220	   d3cc	ECED4402_2022.elf
+Finished building: default.size.stdout
+ 
+
+14:54:29 Build Finished. 0 errors, 0 warnings. (took 470ms)
+
